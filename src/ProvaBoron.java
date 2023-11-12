@@ -5,6 +5,7 @@ public class ProvaBoron {
 		
 		System.out.println("Buongiorno Prof!");
 		System.out.println("Salve Prof!");
+		System.out.println(1 + 1);
 	}
 
 }
